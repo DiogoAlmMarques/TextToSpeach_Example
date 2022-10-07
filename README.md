@@ -1,7 +1,7 @@
 # TextToSpeach
 
 
-2 small windows forms projects to test Text To Speach api from Azure and IBM , set your own api keys on the config files :)
+2 small windows forms projects to test Text To Speach api from Azure and IBM , set your own api keys on the config files might need to change other conifg depending on your zone :)
 
 
 Project can open files from a txt instead of typing , files are encrypted after converted , you can select from all voice available (Azure only(PT) see 1. ), made this progam in 2 hours not a lot of control it was ment just to test the different voices :)
