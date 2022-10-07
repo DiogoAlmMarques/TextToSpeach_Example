@@ -1,5 +1,5 @@
 # TextToSpeach
-VOICES ARE ALL HARD CODED IN THE COMBO BOX (Because i only needed the Portuguese voices) easy to change tho , might switch up later to show all available voices 
+VOICES ARE ALL HARD CODED IN THE COMBO BOX IN THE AZURE PROJECT (Because i only needed the Portuguese voices) easy to change tho , might switch up later to show all available voices already did that for the IBM Project tho)
 
 2 small windows forms projects to test Text To Speach api from Azure and IBM , set your own api keys on the config files :)
 
