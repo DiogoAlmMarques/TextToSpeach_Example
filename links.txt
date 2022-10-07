@@ -1,0 +1,28 @@
+
+__Artigo interessante__
+https://medium.com/cwi-software/ibm-watson-iii-adicionando-fala-e-reconhecimento-de-voz-6662219c3d8c
+
+__IBM API__
+Getting started:
+https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted
+Vozes Disponiveis(Apenas suporta PT-BR):
+https://speech-to-text-demo.ng.bluemix.net/?_ga=2.127368394.631023897.1624004708-381460573.1624004708
+Princing :
+http://prntscr.com/15semhj
+
+__Google API__ 
+Getting Started:
+https://cloud.google.com/speech-to-text/
+Vozes disponiveis (inclui Pt-pt) :
+https://cloud.google.com/text-to-speech/docs/voices
+Princing :
+https://cloud.google.com/text-to-speech/pricing
+
+__Microsoft Azure__
+Getting started/Test:
+https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#features
+Vozes disponiveis(inclui Pt-pt):
+http://prntscr.com/15seu07 ( inclui Language identification Fonte: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support#text-to-speech)
+calculadora de preço:
+https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/
+

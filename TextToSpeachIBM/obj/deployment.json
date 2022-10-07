@@ -1,0 +1,58 @@
+{
+  "id": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourceGroups/TextToSpeach/providers/Microsoft.Resources/deployments/Microsoft.CognitiveServicesSpeechServices",
+  "name": "Microsoft.CognitiveServicesSpeechServices",
+  "type": "Microsoft.Resources/deployments",
+  "tags": {
+    "primaryResourceId": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourcegroups/TextToSpeach/providers/Microsoft.CognitiveServices/accounts/TextToSpeachAPI",
+    "marketplaceItemId": "Microsoft.CognitiveServicesSpeechServices"
+  },
+  "properties": {
+    "templateHash": "10533962865229907385",
+    "parameters": {
+      "name": {
+        "type": "String",
+        "value": "TextToSpeachAPI"
+      },
+      "location": {
+        "type": "String",
+        "value": "northeurope"
+      },
+      "apiType": {
+        "type": "String",
+        "value": "SpeechServices"
+      },
+      "sku": {
+        "type": "String",
+        "value": "F0"
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "None"
+    },
+    "provisioningState": "Succeeded",
+    "timestamp": "2021-06-21T16:52:38.7799521Z",
+    "duration": "PT1M12.8981752S",
+    "correlationId": "c32fb5ae-0920-424e-a30d-b0006a00d8aa",
+    "providers": [
+      {
+        "namespace": "Microsoft.CognitiveServices",
+        "resourceTypes": [
+          {
+            "resourceType": "accounts",
+            "locations": [
+              "northeurope"
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": [],
+    "outputResources": [
+      {
+        "id": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourceGroups/TextToSpeach/providers/Microsoft.CognitiveServices/accounts/TextToSpeachAPI"
+      }
+    ],
+    "validationLevel": "Template"
+  }
+}

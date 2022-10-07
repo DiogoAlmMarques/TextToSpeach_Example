@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IBM.Watson.TextToSpeech.v1" Version="5.2.0" />
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.17.0" />
+  </ItemGroup>
+
+</Project>

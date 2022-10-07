@@ -1,0 +1,32 @@
+[
+  {
+    "id": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourceGroups/TextToSpeach/providers/Microsoft.Resources/deployments/Microsoft.CognitiveServicesSpeechServices/operations/60CC21B444E29944",
+    "operationId": "60CC21B444E29944",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-06-21T16:52:38.5014949Z",
+      "duration": "PT1M10.4022096S",
+      "trackingId": "4395248c-249b-40e7-85a4-6915a5c80026",
+      "serviceRequestId": "1a34043d-c7d0-499e-97fd-ffbe1ce080a2",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourceGroups/TextToSpeach/providers/Microsoft.CognitiveServices/accounts/TextToSpeachAPI",
+        "resourceType": "Microsoft.CognitiveServices/accounts",
+        "resourceName": "TextToSpeachAPI"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/7c2ace0f-afc1-464d-93ec-94251f37b6c9/resourceGroups/TextToSpeach/providers/Microsoft.Resources/deployments/Microsoft.CognitiveServicesSpeechServices/operations/08585773125995958399",
+    "operationId": "08585773125995958399",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-06-21T16:52:38.7169038Z",
+      "duration": "PT1M10.6176185S",
+      "trackingId": "0a02ad2c-b6b1-4d79-9cf8-a1e7f6e1f761",
+      "statusCode": "OK"
+    }
+  }
+]
